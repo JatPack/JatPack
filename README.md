@@ -20,3 +20,27 @@
 -:smiley_cat: люблю котят
 
 -:angel: просто ангелочек
+
+### :hammer_and_wrench: Языки и инструменты :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>
+</div>
+
+### :trophy: Достижения :
+<div>
+  <img src = "https://github-profile-trophy.vercel.app/?username=JatPack&theme=onedark" alt=""/>
+</div>
+
+### :keyboard: Наиболее используемые языки :
+<div>
+ <img src = "https://github-readme-stats.vercel.app/api?username=JatPack&show_icons=true&theme=radical" alt=""/>
+</div>
+
+### :bar_chart: Статистика активности :
+<div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JatPack&theme=merko" alt=""/>
+</div>
