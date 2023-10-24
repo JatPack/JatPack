@@ -12,3 +12,10 @@
 <div id="heythere" align ="center">
 <h1> Профиль на GITHUB </h1>
 </div>
+### :man_technologist: Обо мне :
+
+-:sleeping: послеобеденный сон - залог здоровья
+
+-:smiley_cat: люблю котят
+
+-:angel: просто ангелочек
